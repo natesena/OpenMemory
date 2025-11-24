@@ -5,5 +5,8 @@
         "install": "cd backend && npm install",
         "build": "cd backend && npm run build",
         "start": "cd backend && npm start"
+    },
+    "devDependencies": {
+        "@nathanielsena/claude-commands": "github:natesena/claude-commands"
     }
 }
